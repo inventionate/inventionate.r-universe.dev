@@ -1,9 +1,5 @@
 [
     {
-        "package": "glitter",
-        "url": "https://github.com/lvaudor/glitter"
-    },
-    {
         "package": "TimeSpaceAnalysis",
         "url": "https://github.com/inventionate/TimeSpaceAnalysis"
     }
